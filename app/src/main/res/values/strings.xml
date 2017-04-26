@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ShouldIwashmycarr</string>
+    <string name="find_out">Find out</string>
+    <string name="first_question">Should I wash my car?</string>
 </resources>
